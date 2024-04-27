@@ -1,4 +1,4 @@
-# Orchestrating-Jenkins-CI-CD-with-Docker
+# Orchestrating Jenkins CI-CD with Docker
 
 # Jenkins CI/CD with Docker Integration
 

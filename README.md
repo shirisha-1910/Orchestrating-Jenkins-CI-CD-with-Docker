@@ -60,7 +60,7 @@ This project aims to optimize the software development lifecycle by leveraging J
      - Configure pipeline triggers to automatically start builds upon code changes.
 
 ## Jenkinsfile:
-The Jenkinsfile, located at [Jenkinsfile/pipeline {.groovy}](Jenkinsfile/pipeline%20%7B%20.groovy), defines the CI/CD pipeline as code. This file orchestrates the entire build, test, and deployment process within Jenkins. Please refer to the Jenkinsfile for details on pipeline stages and steps.
+The Jenkinsfile, located at [Jenkinsfile/pipeline {.groovy}](https://github.com/yourusername/yourrepository/blob/main/Jenkinsfile/pipeline%20%7B%20.groovy), defines the CI/CD pipeline as code. This file orchestrates the entire build, test, and deployment process within Jenkins. Please refer to the Jenkinsfile for details on pipeline stages and steps.
 
 ## Future Enhancements:
 - Explore further automation opportunities:
